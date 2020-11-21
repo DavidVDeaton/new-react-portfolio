@@ -1,5 +1,5 @@
-# Portfolio
-Portfolio
+# Portfolio with React
+Portfolio built with React
 
 # Table of contents
 - [Project Name](#portfolio)
@@ -9,7 +9,6 @@ Portfolio
 - [Features](#features)
 - [Technology](#technology)
 - [Status](#status)
-- [Future Plan](#future-plan)
 - [Create By](#create-by)
 
 # General info
