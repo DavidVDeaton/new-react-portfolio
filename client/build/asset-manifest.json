@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.52b26f76.chunk.css",
+    "main.js": "/static/js/main.dff12831.chunk.js",
+    "main.js.map": "/static/js/main.dff12831.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.992eac29.js",
+    "runtime-main.js.map": "/static/js/runtime-main.992eac29.js.map",
+    "static/js/2.4c793cde.chunk.js": "/static/js/2.4c793cde.chunk.js",
+    "static/js/2.4c793cde.chunk.js.map": "/static/js/2.4c793cde.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.6a7807ff549204173a7e8ce8572c5ceb.js": "/precache-manifest.6a7807ff549204173a7e8ce8572c5ceb.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.52b26f76.chunk.css.map": "/static/css/main.52b26f76.chunk.css.map",
+    "static/js/2.4c793cde.chunk.js.LICENSE.txt": "/static/js/2.4c793cde.chunk.js.LICENSE.txt",
+    "static/media/Homework10Screenshot.PNG": "/static/media/Homework10Screenshot.a103126c.PNG",
+    "static/media/WorkDayScheduler.png": "/static/media/WorkDayScheduler.5ab1fecf.png",
+    "static/media/endlessfantasysports.PNG": "/static/media/endlessfantasysports.98ebee17.PNG",
+    "static/media/questions.PNG": "/static/media/questions.8e692de5.PNG",
+    "static/media/screenshot_large.png": "/static/media/screenshot_large.7c723778.png",
+    "static/media/weatherdashboard.PNG": "/static/media/weatherdashboard.299b3baf.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.992eac29.js",
+    "static/js/2.4c793cde.chunk.js",
+    "static/css/main.52b26f76.chunk.css",
+    "static/js/main.dff12831.chunk.js"
+  ]
+}
