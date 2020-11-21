@@ -38,15 +38,14 @@ Standard
 The following technology have been used for this project:
 
 1. HTML:
-    1. About Me
-    2. Portfolio
-    3. Contact
    
 2. Stylesheets
-    1. Bootstrap
-    2. Portfolio Stylesheet
 
 3. JavaScript
+
+4. React
+
+5. NPM Packages
 
 # Status
 Project status: Finished
