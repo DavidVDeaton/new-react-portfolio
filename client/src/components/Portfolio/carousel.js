@@ -204,12 +204,12 @@ function Carousel() {
                     <Endless />
                 </div>
             </div>
-            <a id='decrease' className="carousel-control-prev" onClick={() => setActive(active-1)}>
+            <button id='decrease' className="carousel-control-prev" onClick={() => setActive(active-1)}>
                 <span className="carousel-control-prev-icon"></span>
-            </a>
-            <a id='increase' className="carousel-control-next" onClick={() => setActive(active+1)}>
+            </button>
+            <button id='increase' className="carousel-control-next" onClick={() => setActive(active+1)}>
                 <span className="carousel-control-next-icon"></span>
-            </a>
+            </button>
         </div>
     );
 }
