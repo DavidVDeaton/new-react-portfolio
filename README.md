@@ -14,18 +14,18 @@ Portfolio built with React
 # General info
 This portfolio will introduce you to David Deaton and display some of his coding projects.
 
-Please visit [https://davidvdeaton.github.io/Portfolio/index.html](https://davidvdeaton.github.io/Portfolio/index.html) for the site.
+Please visit [https://lit-ravine-61391.herokuapp.com/](https://lit-ravine-61391.herokuapp.com/) for the site.
 
 For the feature of the site, please visit the [Features](#features) section for more details.
 
 # Screenshots
 About Me:
 
-![About Me](./client/src/img/aboutsuns.PNG?raw=true)
+![About Me](./src/img/aboutsuns.PNG?raw=true)
 
 Portfolio:
 
-![Portfolio](./client/src/img/sunsport.PNG?raw=true)
+![Portfolio](./src/img/sunsport.PNG?raw=true)
 
 # Features
 This portfolio contains links to the deployed site of various coding projects.  Additionally, all repositories can be found by clicking on the GitHub link at the bottom of each page.  A resume pdf is also available by clicking on resume in the bottom navbar.
